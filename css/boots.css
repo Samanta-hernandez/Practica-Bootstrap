@@ -1,0 +1,19 @@
+.bg-dark-x{
+    background: #000;
+}
+
+ .text-warning-x{
+    color: cyan;
+}
+
+.bg-dark-y{
+    background: #1b1919 ;
+}
+
+.btn-warning-x{
+    background: cyan;
+}
+
+.card{
+    border-radius: 15px !important;
+}
